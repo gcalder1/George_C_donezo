@@ -114,6 +114,4 @@ router.delete("/:todoId", async (req, res) => {
   }
 });
 
-//...Rest of the code
-
 export default router;
